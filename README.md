@@ -1,7 +1,7 @@
 # kode-skan
 KodeSkan is a CLI-based code complexity analyser designed to analyse cyclomatic complexity, nesting depth, duplicate code, and much more.
 
-# CodeCortex - Code Complexity Analyzer
+# KodeSkan - Code Complexity Analyzer
 
 ## Introduction
 **KodeSkan** is a **CLI-based Code Complexity Analyzer** that helps developers assess and optimize their code quality. It analyzes **Cyclomatic Complexity, Nesting Depth, Duplicate Code, and much more** helping in maintainability issues and improving software performance.
